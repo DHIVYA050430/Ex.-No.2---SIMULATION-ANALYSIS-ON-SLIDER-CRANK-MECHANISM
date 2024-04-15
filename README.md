@@ -44,8 +44,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![alt text](<exp -2 empd.png>)
-
+![alt text](<empd exercise 3.png>)
 ### Name: DIVYA E
 ### Register Number: 212223230050 
 
